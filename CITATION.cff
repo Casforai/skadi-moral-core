@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Якщо будуєте на ядрі SKADI, зазначте походження так. / If you build on the SKADI core, please cite it as below."
+title: "SKADI moral core (L0), edition 4"
+abstract: "A moral foundation (layer 0) to build an LLM, assistant or robot around: six lines and three rules under them, open under CC BY-SA 4.0."
+type: dataset
+authors:
+  - family-names: Pidnebesnyi
+    given-names: Yakiv
+version: "4"
+date-released: "2026-09-13"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/Casforai/skadi-moral-core"
+keywords:
+  - AI ethics
+  - moral core
+  - AI companion
+  - robotics
+  - alignment
